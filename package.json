@@ -1,5 +1,5 @@
 {
-  "name": "vue-monaco-editor",
+  "name": "@youzuqiang/vue-monaco-editor",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
